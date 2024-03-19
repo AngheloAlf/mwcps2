@@ -1,0 +1,51 @@
+===========================================================================
+Metrowerks Command-Line Tools Release Notes
+===========================================================================
+
+Date:    October 18, 1999
+Authors: Ed Swartz, Stephen Chong
+	
+===========================================================================
+Usage and Configuration
+===========================================================================
+
+(General usage notes are in "CLT_Usage_Notes.txt".)
+
+For Embedded MIPS environment variables, OS is "PSX2" and ARCH is "MIPS", 
+so the target-specific names are "MWCPSX2MIPSIncludes" for the compiler, 
+and "MWPSX2MIPSLibraries" and "MWPSX2MIPSLibraryFiles" for the linker.
+
+===========================================================================
+Changes in This Version
+===========================================================================
+
+===========================================================================
+New Features in This Version
+===========================================================================
+
+===========================================================================
+Bugs Fixed in This Version
+===========================================================================
+
+===========================================================================
+Known Bugs in This Version
+===========================================================================
+
+===========================================================================
+Contacting Metrowerks
+===========================================================================
+
+Use the forms found in the Release Notes folder on the CD to submit:
+
+    Technical Support    cw_support@metrowerks.com
+    Report Bugs:         cw_bug@metrowerks.com
+    Suggestions:         cw_suggestion@metrowerks.com
+
+See the CodeWarrior_on_the_Nets document in the Release Notes folder for
+more contact information, including a list of Internet newsgroups,
+online services, and factory update sites.
+
+===========================================================================
+Ed Swartz, Stephen Chong
+Metrowerks Command-Line Tools Engineers
+Metrowerks Corporation
